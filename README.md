@@ -1,8 +1,8 @@
-
+# PSK
 ## AIM
 To perform Phase Shift Keying{PSK} using Python
 
-## APPARATUS REQUIRED:
+## Tools required
 Python: A versatile programming language used for scientific computing and signal processing.
 NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations.
 Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
